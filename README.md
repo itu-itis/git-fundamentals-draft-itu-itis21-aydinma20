@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub *Matay Aydın 150200075*
 
 ## 🤓 Course overview and learning outcomes 
 
