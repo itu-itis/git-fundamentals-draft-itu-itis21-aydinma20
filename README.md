@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub *Matay Aydın 150200075*
+# :wave: The Basics of GitHub *Matay Aydın 150200075* (LAST MOD. 10:48 25.10.2021)
 
 ## 🤓 Course overview and learning outcomes 
 
