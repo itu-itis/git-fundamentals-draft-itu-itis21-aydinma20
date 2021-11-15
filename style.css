@@ -1,0 +1,15 @@
+      h1 {
+        color: red;
+        font-size: 24pt;
+        font-family: Tahoma, Helvetica, sans-serif;
+        text-decoration: underline;
+      }
+      em {
+        font-weight: bold;
+        color: green;
+        font-style: normal;
+        background-color: lightgray;
+      }
+      ul {
+        list-style-type: square;
+      }
