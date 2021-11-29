@@ -1,15 +1,34 @@
-      h1 {
-        color: red;
-        font-size: 24pt;
-        font-family: Tahoma, Helvetica, sans-serif;
-        text-decoration: underline;
-      }
-      em {
-        font-weight: bold;
-        color: green;
-        font-style: normal;
-        background-color: lightgray;
-      }
-      ul {
-        list-style-type: square;
-      }
+h1 {
+  color: red;
+  font-size: 24pt;
+  font-family: Tahoma, Helvetica, sans-serif;
+  text-decoration: none;
+  border: thick solid red;
+  text-align: center;
+  width: 50%;
+  padding: 1ex;
+}
+em {
+  font-weight: bold;
+  color: green;
+  font-style: normal;
+  background-color: lightgray;
+}
+ul {
+  list-style-type: square;
+}
+
+a:hover {
+  text-decorattion: none;
+}
+li:first-child {
+  border: thick solid green;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding: 1ex;
+  width: 40%;
+}
+p.centered {
+  text-align: center;
+  width: 50%;
+}
